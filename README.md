@@ -1,6 +1,6 @@
 # riverpod_todo
 
-A new Flutter project.
+belum dilanjut.
 
 ## Getting Started
 
